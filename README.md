@@ -26,7 +26,7 @@
 
 <br></br><br></br><br></br><br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejKlonicki&layout=compact&hide=HTML&bg_color=09131B&hide_border=false&hide_border=true&title_color=87CEFA&icon_color=FFE400&text_color=ffffff)](https://github.com/MaciejKlonicki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejKlonicki&layout=compact&card_width=450&hide=HTML&bg_color=09131B&hide_border=false&hide_border=true&title_color=87CEFA&icon_color=FFE400&text_color=ffffff)](https://github.com/MaciejKlonicki/github-readme-stats)
 
 [website]: https://www.maciejklonicki.org
 [linkedin]: https://www.linkedin.com/in/maciek-kłonicki
