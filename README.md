@@ -18,6 +18,7 @@
 <img align="left" alt="JavaScript" width="30px" height="30px" src="./images/js.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="30px" height="30px" src="./images/react.png" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="30px" height="30px" src="./images/redux.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="30px" height="30px" src="./images/css.png" style="padding-right:10px;" />
 
 [website]: https://www.maciejklonicki.org
 [linkedin]: https://www.linkedin.com/in/maciek-kłonicki
