@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=MaciejKlonickie&style=flat-square)
 
 ## Welcome to my GitHub 👋
+- 🔭 How to reach me maciek.klonicki@gmail.com
 
 ## Connect with me:
 [![website](./images/ux.png)](https://www.maciejklonicki.org)
