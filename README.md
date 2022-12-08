@@ -24,7 +24,7 @@
 <img align="left" alt="CSS" width="40px" height="40px" src="./images/css.webp" style="padding-right:10px;" />
 
 <br></br><br></br>
-<img align="left" alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=MaciejKlonicki&show_icons=true&hide_border=true&&hide=stars,prs,issues,contribs&title_color=87CEFA&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=MaciejKlonicki&show_icons=true&hide_border=true&&hide=stars,prs,issues,contribs&title_color=87CEFA&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a24" />
 
 <br></br><br></br>
 
