@@ -24,12 +24,12 @@
 <img align="left" alt="CSS" width="40px" height="40px" src="./images/css.webp" style="padding-right:10px;" />
 
 <br></br><br></br>
-<img align="left" alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=[MaciejKlonicki]&show_icons=true&hide_border=true&&hide=stars,prs,issues,contribs&title_color=87CEFA&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=MaciejKlonicki&show_icons=true&hide_border=true&&hide=stars,prs,issues,contribs&title_color=87CEFA&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <br></br><br></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[MaciejKlonicki]&layout=compact&card_width=445&hide=HTML&bg_color=09131B&hide_border=false&hide_border=true&title_color=87CEFA&icon_color=FFE400&text_color=ffffff)](https://github.com/MaciejKlonicki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejKlonicki&layout=compact&card_width=445&hide=HTML&bg_color=09131B&hide_border=false&hide_border=true&title_color=87CEFA&icon_color=FFE400&text_color=ffffff)](https://github.com/MaciejKlonicki/github-readme-stats)
 
 [website]: https://www.maciejklonicki.org
 [linkedin]: https://www.linkedin.com/in/maciek-kłonicki
