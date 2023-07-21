@@ -4,7 +4,7 @@
 - 🔭 How to reach me maciek.klonicki@gmail.com
 
 ## Connect with me:
-[![website](./images/linkedin.png)](https://www.linkedin.com/in/maciek-kłonicki)
+[![website](./images/linkedin.png)](https://www.linkedin.com/in/maciej-kłonicki/)
 &nbsp;&nbsp;
 
 ## Website:
