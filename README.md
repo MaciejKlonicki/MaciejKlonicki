@@ -20,7 +20,6 @@
 <img align="left" alt="Git" width="40px" height="40px" src="./images/git.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="40px" height="40px" src="./images/js.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="40px" height="40px" src="./images/react.png" style="padding-right:10px;" />
-<img align="left" alt="Redux" width="40px" height="40px" src="./images/redux.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="40px" height="40px" src="./images/css.webp" style="padding-right:10px;" />
 
 <br></br><br></br>
